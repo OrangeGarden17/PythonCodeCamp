@@ -1,1 +1,1 @@
-# PythonCodeCamp pythin code
+# PythonCodeCamp python code
